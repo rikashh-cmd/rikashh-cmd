@@ -1,107 +1,105 @@
-<h1 align="center">👋 Hi, I'm Mohamed Rikash</h1>
+<!-- PROFESSIONAL GITHUB PROFILE README -->
 
-<h3 align="center">💻 Software Engineering Student | Aspiring Web Developer 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Aspiring+Web+Developer;Learning+Java+and+Web+Development;Building+My+Future+One+Line+at+a+Time" alt="Typing SVG" />
+# Hi there, I'm Rikash 👋
+
+### ### 💻 BICT Undergraduate at Uva Wellassa University | Software Engineering Student | 🌐 Aspiring Web Developer | 📈 Digital Marketing Intern
+
+Building my skills, creating projects, and exploring new technologies.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+Web+Developer;Java+Developer+in+Progress;Learning+Every+Day" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rikashh-cmd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rikashh-cmd&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🎓 I'm a Software Engineering student.
-* 💻 Interested in Software Engineering and Web Development.
-* 🌱 Currently learning Java, HTML, CSS, and JavaScript.
-* 🎨 Learning Digital Marketing and Canva Design.
-* 🔭 Working on improving my programming and problem-solving skills.
-* 🤝 Interested in collaborating on beginner-friendly projects.
-* 🎯 My goal is to become a skilled Software Engineer.
-* ⚡ I believe in learning something new every day!
+* 💻 I'm learning programming and web development.
+* ☕ Currently improving my Java programming skills.
+* 🌐 Interested in building modern and responsive websites.
+* 📚 Always learning new technologies and improving my skills.
+* 🎯 My goal is to become a professional Software Engineer.
+* 🤝 Open to learning, collaboration, and beginner-friendly projects.
 
 ---
 
-## 💻 Languages and Technologies
+## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js" alt="Programming Languages" />
-</p>
+<div align="center">
 
-## 🛠️ Tools I Use
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,mysql&perline=4" alt="Programming Languages and Tools" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Development Tools" />
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikashh-cmd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikashh-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rikashh-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikashh-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rikashh-cmd&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rikashh-cmd&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=rikashh-cmd&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/rikashh-cmd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🎯 My Goals
+## 🚀 Featured Projects
 
-* 📚 Improve my Java programming skills.
-* 🌐 Build responsive and user-friendly websites.
-* 💡 Develop real-world software projects.
-* 🚀 Learn modern web development technologies.
-* 🤝 Collaborate with other developers.
-* 💼 Gain practical experience in the software industry.
+Here are some projects I'm working on and planning to build:
 
----
+* 🎓 **Student Management System** — A student management application built with Java.
+* 💰 **Expense Tracker** — A simple application to manage daily expenses.
+* 🌐 **Personal Portfolio Website** — A responsive website to showcase my skills and projects.
 
-## 💡 Daily Motivation
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
-</p>
+> Replace these descriptions with links to your actual repositories when your projects are published.
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+## 🎯 Current Goals
 
-<p align="center">
-  💻 Learn • Build • Improve • Repeat 🚀
-</p>
+* [ ] Improve my Java programming skills.
+* [ ] Learn advanced HTML, CSS, and JavaScript.
+* [ ] Build real-world software projects.
+* [ ] Learn Git and GitHub collaboration.
+* [ ] Develop a professional portfolio.
 
-<p align="center">
-  <b>⭐ Keep coding and never stop learning! ⭐</b>
-</p>
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/rikashh-cmd">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Learning today, building tomorrow."
+
+⭐ Thanks for visiting my profile!
+
+</div>
