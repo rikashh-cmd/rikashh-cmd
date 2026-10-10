@@ -70,18 +70,36 @@
 
 ---
 
-## 📊 GitHub Statistics
+
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikashh-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikashh-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rikashh-cmd&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikashh-cmd&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rikashh-cmd&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikashh-cmd&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+<h2 align="center">🏆 GITHUB TROPHIES</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rikashh-cmd&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rikashh-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
+  <b>💻 BUILD • 🚀 LEARN • 🌟 GROW</b>
 </p>
 
----
 
 ## 🌐 Connect With Me
 
