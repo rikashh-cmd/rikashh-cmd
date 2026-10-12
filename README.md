@@ -71,18 +71,6 @@
 ---
 
 
-<h2 align="center">📊 GITHUB STATISTICS</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikashh-cmd&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikashh-cmd&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
-</p>
-
-<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rikashh-cmd&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <h2 align="center">📈 CONTRIBUTION GRAPH</h2>
 
